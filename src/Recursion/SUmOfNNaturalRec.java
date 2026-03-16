@@ -11,7 +11,7 @@ public class SUmOfNNaturalRec {
     }
 
     public static void main(String[] args) {
-        int num = 1000;
+        int num = 5;
         int result = sum(num);
         System.out.println(result);
     }
