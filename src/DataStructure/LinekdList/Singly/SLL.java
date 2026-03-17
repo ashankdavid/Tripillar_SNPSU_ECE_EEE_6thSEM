@@ -47,6 +47,7 @@ public class SLL {
 
     void deleteByVal(int val) {
         if(head==null){
+            System.out.println("Linked LIst is Empty!");
             return ;
         }
         if(head.data==val){
